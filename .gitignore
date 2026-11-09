@@ -1,0 +1,7 @@
+obj_*/
+*.sky
+*.co
+*.a
+symbols.c
+symbols.h
+*.native
