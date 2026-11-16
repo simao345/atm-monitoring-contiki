@@ -1849,9 +1849,9 @@ LOAD /usr/local/msp430/bin/../lib/gcc/msp430/4.7.0/mmpy-16/libcrt0.a
  .stab          0x00019188      0x8f4 contiki-sky.a(frame802154.o)
                                0x10c8 (size before relaxing)
 
-.stabstr        0x00000000    0x15aa9
+.stabstr        0x00000000    0x15ab5
  *(.stabstr)
- .stabstr       0x00000000    0x15aa9 sensor-node.co
+ .stabstr       0x00000000    0x15ab5 sensor-node.co
 
 .stab.excl
  *(.stab.excl)
