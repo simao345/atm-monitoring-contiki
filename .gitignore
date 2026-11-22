@@ -5,3 +5,4 @@ obj_*/
 symbols.c
 symbols.h
 *.native
+*.map
