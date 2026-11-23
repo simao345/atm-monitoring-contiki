@@ -86,10 +86,10 @@ Right-click the sink -> **Mote tools -> Mote Interface Viewer -> Serial port**, 
 
 - [x] Alarms reach the sink with a working sink (ID 1), no `alarm LOST`
 - [x] Energy lines printed every 60 s
-- [ ] Green LED blinks every second
-- [ ] Red LED on above the threshold
+- [x] Green LED blinks every second
+- [x] Red LED on above the threshold
 - [ ] Presence button toggles yellow LED and notifies the sink
-- [ ] `list` shows the last 5 (oldest first)
-- [ ] `thr 25` reaches all sensors; bad values (`thr abc`, `thr 500`) are rejected
-- [ ] `alarm off` / `alarm on` work (alarm resent if still hot)
-- [ ] `status` and `energy` print correctly
+- [x] `list` shows the last 5 (oldest first)
+- [ ] `thr 25` reaches all sensors; bad values (`thr abc`, `thr 500`) are rejected --> not for letters
+- [x] `alarm off` / `alarm on` work (alarm resent if still hot)
+- [x] `status` and `energy` print correctly
